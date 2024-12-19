@@ -10,3 +10,21 @@
 2024-12-19 09:28:22,846:INFO:K-12 school data saved to k12_data.csv
 2024-12-19 09:28:22,964:INFO:Dash is running on http://127.0.0.1:8050/
 
+2024-12-19 14:42:09,104:INFO:Fetching data for the year 2021 from Ransomware.live API.
+2024-12-19 14:42:09,685:INFO:Data for year 2021 fetched successfully.
+2024-12-19 14:42:09,685:INFO:Fetching data for the year 2022 from Ransomware.live API.
+2024-12-19 14:42:10,063:INFO:Data for year 2022 fetched successfully.
+2024-12-19 14:42:10,064:INFO:Fetching data for the year 2023 from Ransomware.live API.
+2024-12-19 14:42:10,615:INFO:Data for year 2023 fetched successfully.
+2024-12-19 14:42:10,615:INFO:Fetching data for the year 2024 from Ransomware.live API.
+2024-12-19 14:42:11,194:INFO:Data for year 2024 fetched successfully.
+2024-12-19 14:42:11,414:INFO:Total data saved to total_data.csv
+2024-12-19 14:42:11,582:INFO:K-12 school data saved to k12_data.csv
+2024-12-19 14:42:11,706:INFO:Dash is running on http://127.0.0.1:8050/
+
+2024-12-19 14:54:53,565:INFO:Dash is running on http://127.0.0.1:8050/
+
+2024-12-19 14:59:09,286:INFO:Dash is running on http://127.0.0.1:8050/
+
+2024-12-19 15:11:05,286:INFO:Dash is running on http://127.0.0.1:8050/
+
